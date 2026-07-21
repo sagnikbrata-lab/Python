@@ -1,3 +1,18 @@
+"""
+Multi Fermi Estimation Engine
+
+Author: Sagnik Brata Chatterjee
+Language: Python 3.14.6
+
+Interactive estimators based on classic Fermi problems.
+
+Current modules:
+- Chicago Piano Tuners
+- West Bengal Harmonium Tuners
+- World's Text Stack To the Moon
+"""
+
+
 # ==========================================
 # MODULE 1: CHICAGO PIANO TUNERS PROBLEM
 # ==========================================

@@ -2,8 +2,7 @@
 Multi Fermi Estimation Engine
 
 Author: Sagnik Brata Chatterjee
-Language: Python 3.14.6
-
+Language: Python 3.14+
 Interactive estimators based on classic Fermi problems.
 
 Current modules:

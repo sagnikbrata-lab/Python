@@ -1,0 +1,118 @@
+============================================================
+ RKMVCC RAHARA WATER COOLER TAP MAINTENANCE ESTIMATOR
+============================================================
+ 1. Total Campus Population               : 1,200
+ 2. Boarder Student Ratio (0.80 = 80%)    : 0.8
+ 3. UG Building Traffic Ratio (0.75 = 75%): 0.75
+ 4. Total Campus Taps (Coolers x 2)       : 20
+ 5. UG Building Taps (5 Coolers x 2)      : 10
+ 6. Mechanical Tap Cycle Lifespan         : 20,000
+ 7. Operating Academic Days / Year        : 250
+------------------------------------------------------------
+ SIMULATION RESULTS & BREAKDOWN:
+  * Daily Water Dispensed       : 2,939 Liters/day
+  * Total Annual Tap Press Actions: 735,080 cycles
+  * UG Building Tap Failures    : 27.6 / yr (~4.4 mo lifespan)
+  * Rest of Campus Tap Failures : 9.2 / yr (~13.1 mo lifespan)
+  --> TOTAL REPLACEMENTS NEEDED : 36.8 taps/year
+============================================================
+
+OPTIONS:
+  - Type 'all' to update ALL variables.
+  - Type numbers (e.g., '1, 3') to update specific variables.
+  - Type '0' or 'exit' to quit.
+
+Your choice: all
+
+--- BULK UPDATE (Press ENTER to keep current value) ---
+ Total Campus Population [Current: 1200]: 1100
+ Boarder Student Ratio (0.80 = 80%) [Current: 0.8]: 0.80
+ UG Building Traffic Ratio (0.75 = 75%) [Current: 0.75]: 0.75
+ Total Campus Taps (Coolers x 2) [Current: 20]: 18
+ UG Building Taps (5 Coolers x 2) [Current: 10]: 8
+ Mechanical Tap Cycle Lifespan [Current: 20000]: 20000
+ Operating Academic Days / Year [Current: 250]: 250
+
+============================================================
+ RKMVCC RAHARA WATER COOLER TAP MAINTENANCE ESTIMATOR
+============================================================
+ 1. Total Campus Population               : 1,100
+ 2. Boarder Student Ratio (0.80 = 80%)    : 0.8
+ 3. UG Building Traffic Ratio (0.75 = 75%): 0.75
+ 4. Total Campus Taps (Coolers x 2)       : 18
+ 5. UG Building Taps (5 Coolers x 2)      : 8
+ 6. Mechanical Tap Cycle Lifespan         : 20,000
+ 7. Operating Academic Days / Year        : 250
+------------------------------------------------------------
+ SIMULATION RESULTS & BREAKDOWN:
+  * Daily Water Dispensed       : 2,679 Liters/day
+  * Total Annual Tap Press Actions: 670,080 cycles
+  * UG Building Tap Failures    : 25.1 / yr (~3.8 mo lifespan)
+  * Rest of Campus Tap Failures : 8.4 / yr (~14.3 mo lifespan)
+  --> TOTAL REPLACEMENTS NEEDED : 33.5 taps/year
+============================================================
+
+OPTIONS:
+  - Type 'all' to update ALL variables.
+  - Type numbers (e.g., '1, 3') to update specific variables.
+  - Type '0' or 'exit' to quit.
+
+Your choice: 3, 6, 7
+
+--- UPDATE SELECTED VARIABLES ---
+ UG Building Traffic Ratio (0.75 = 75%) [Current: 0.75]: 0.70
+ Mechanical Tap Cycle Lifespan [Current: 20000]: 25000
+ Operating Academic Days / Year [Current: 250]: 265
+
+============================================================
+ RKMVCC RAHARA WATER COOLER TAP MAINTENANCE ESTIMATOR
+============================================================
+ 1. Total Campus Population               : 1,100
+ 2. Boarder Student Ratio (0.80 = 80%)    : 0.8
+ 3. UG Building Traffic Ratio (0.75 = 75%): 0.7
+ 4. Total Campus Taps (Coolers x 2)       : 18
+ 5. UG Building Taps (5 Coolers x 2)      : 8
+ 6. Mechanical Tap Cycle Lifespan         : 25,000
+ 7. Operating Academic Days / Year        : 265
+------------------------------------------------------------
+ SIMULATION RESULTS & BREAKDOWN:
+  * Daily Water Dispensed       : 2,679 Liters/day
+  * Total Annual Tap Press Actions: 710,268 cycles
+  * UG Building Tap Failures    : 19.9 / yr (~4.8 mo lifespan)
+  * Rest of Campus Tap Failures : 8.5 / yr (~14.1 mo lifespan)
+  --> TOTAL REPLACEMENTS NEEDED : 28.4 taps/year
+============================================================
+
+OPTIONS:
+  - Type 'all' to update ALL variables.
+  - Type numbers (e.g., '1, 3') to update specific variables.
+  - Type '0' or 'exit' to quit.
+
+Your choice: 7
+
+--- UPDATE SELECTED VARIABLES ---
+ Operating Academic Days / Year [Current: 265]: 250
+
+============================================================
+ RKMVCC RAHARA WATER COOLER TAP MAINTENANCE ESTIMATOR
+============================================================
+ 1. Total Campus Population               : 1,100
+ 2. Boarder Student Ratio (0.80 = 80%)    : 0.8
+ 3. UG Building Traffic Ratio (0.75 = 75%): 0.7
+ 4. Total Campus Taps (Coolers x 2)       : 18
+ 5. UG Building Taps (5 Coolers x 2)      : 8
+ 6. Mechanical Tap Cycle Lifespan         : 25,000
+ 7. Operating Academic Days / Year        : 250
+------------------------------------------------------------
+ SIMULATION RESULTS & BREAKDOWN:
+  * Daily Water Dispensed       : 2,679 Liters/day
+  * Total Annual Tap Press Actions: 670,080 cycles
+  * UG Building Tap Failures    : 18.8 / yr (~5.1 mo lifespan)
+  * Rest of Campus Tap Failures : 8.0 / yr (~14.9 mo lifespan)
+  --> TOTAL REPLACEMENTS NEEDED : 26.8 taps/year
+============================================================
+
+OPTIONS:
+  - Type 'all' to update ALL variables.
+  - Type numbers (e.g., '1, 3') to update specific variables.
+  - Type '0' or 'exit' to quit.

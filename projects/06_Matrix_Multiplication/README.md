@@ -7,10 +7,11 @@ A Python implementation of general matrix multiplication for matrices of arbitra
 This program multiplies two matrices of dimensions **n × m** and **m × p** using the standard three-loop algorithm taught in introductory linear algebra.
 
 The program:
-- Verifies whether multiplication is possible.
-- Computes the product for matrices of compatible dimensions.
-- Displays the resulting matrix.
-- Reports when multiplication is not defined.
+
+- verifies whether multiplication is defined,
+- computes the matrix product,
+- returns the resulting matrix, and
+- reports when multiplication is not possible.
 
 ## Concepts Practised
 
@@ -19,20 +20,26 @@ The program:
 - Two-dimensional lists
 - Matrix indexing
 - Dimension validation
-- Basic algorithm implementation
+- Algorithm implementation
 
 ## Mathematical Background
 
 For matrices
 
-- A of size n × m
-- B of size m × p
+- A of size **n × m**
+- B of size **m × p**
 
-their product C = AB is an n × p matrix where
+their product
 
-C[i][j] = Σ A[i][k] × B[k][j]
+**C = AB**
 
-for k = 0 to m − 1.
+is an **n × p** matrix where
+
+```
+            m-1
+C[i][j] =   Σ   A[i][k] × B[k][j]
+           k=0
+```
 
 ## Example
 
@@ -47,12 +54,12 @@ A × B
 
 ## Future Improvements
 
-- Accept matrix input from the user.
-- Validate empty or irregular matrices.
-- Improve output formatting.
-- Add NumPy implementation for comparison.
-- Measure execution time for large matrices.
+- Accept matrix input from the user
+- Validate empty or irregular matrices
+- Improve output formatting
+- Compare performance with NumPy
+- Measure execution time for large matrices
 
 ---
 
-Created as part of my Python learning journey during my B.Sc. Physics. I have just learnt the algo for matrix multiplication in class and wanted to write code for the same.
+Created while learning matrix multiplication in my first-year B.Sc. Physics course. This project implements the standard three-loop algorithm as a programming exercise to reinforce the underlying mathematics.
